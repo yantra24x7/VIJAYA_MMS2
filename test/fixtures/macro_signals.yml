@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  update_date: 2021-03-03 16:54:14
+  end_date: 2021-03-03 16:54:14
+  machines: one
+  time_stamp: MyString
+  signal: MyString
+  value: MyString
+
+two:
+  update_date: 2021-03-03 16:54:14
+  end_date: 2021-03-03 16:54:14
+  machines: two
+  time_stamp: MyString
+  signal: MyString
+  value: MyString

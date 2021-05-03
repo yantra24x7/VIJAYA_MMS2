@@ -1,0 +1,7 @@
+class HmiReason < ApplicationRecord
+
+validates :name, :spec_id, uniqueness: true, message: 'has already present'
+validates :name, :spec_id, presence: true
+  
+#validates_presence_of :address1, message: 'Put some address please' 
+end
